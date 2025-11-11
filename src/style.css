@@ -25,7 +25,12 @@ body {
     font-size: 50px;
 }
 
+.top-suit{
+    align-self: flex-start;
+}
+
 .bottom-suit {
+    align-self: flex-end;
     transform: rotate(180deg);
 }
 
